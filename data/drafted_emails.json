@@ -1,0 +1,16 @@
+[
+  {
+    "to": "no-reply@fitpulse.io",
+    "subject": "Cancellation request for FitPulse Pro trial",
+    "body": "Hi FitPulse Team,\n\nI noticed my free trial of FitPulse Pro is set to convert to a paid plan on 2026-04-07 at $14.99/month. I would like to cancel before the trial ends to avoid being charged.\n\nPlease confirm cancellation and let me know if any further action is needed.\n\nThank you,",
+    "kind": "cancellation",
+    "drafted_at": "2026-09-11T11:11:05.021956+00:00"
+  },
+  {
+    "to": "receipts@streamvio.com",
+    "subject": "Request for loyalty discount on Streamvio Premium",
+    "body": "Hi Streamvio Team,\n\nI\u2019ve been a loyal Streamvio Premium subscriber since March 2026. I noticed my monthly rate increased from $12.99 to $17.99 this month\u2014a 38% increase. I value the service but would like to discuss a loyalty discount or promotional rate to keep my subscription affordable.\n\nCould you please let me know if any retention offers are available?\n\nThank you for your consideration.",
+    "kind": "negotiation",
+    "drafted_at": "2026-09-11T11:11:07.991861+00:00"
+  }
+]

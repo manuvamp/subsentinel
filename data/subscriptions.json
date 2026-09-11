@@ -1,0 +1,57 @@
+[
+  {
+    "name": "FitPulse Pro",
+    "merchant": "FitPulse.io",
+    "amount": 14.99,
+    "currency": "USD",
+    "cadence": "monthly",
+    "last_charge_date": null,
+    "first_seen": "2026-04-04",
+    "status": "active",
+    "notes": "Trial ends 2026-04-07, will charge $14.99/month."
+  },
+  {
+    "name": "Streamvio Premium",
+    "merchant": "Streamvio",
+    "amount": 17.99,
+    "currency": "USD",
+    "cadence": "monthly",
+    "last_charge_date": "2026-04-02",
+    "first_seen": "2026-03-02",
+    "status": "active",
+    "notes": "Price increased from $12.99 to $17.99 on 2026-04-02 (+38%)."
+  },
+  {
+    "name": "CloudDesk Business",
+    "merchant": "CloudDesk",
+    "amount": 29.0,
+    "currency": "USD",
+    "cadence": "monthly",
+    "last_charge_date": "2026-03-28",
+    "first_seen": "2026-03-28",
+    "status": "active",
+    "notes": ""
+  },
+  {
+    "name": "NoteDaily",
+    "merchant": "NoteDaily",
+    "amount": 4.99,
+    "currency": "USD",
+    "cadence": "monthly",
+    "last_charge_date": "2026-03-25",
+    "first_seen": "2026-03-25",
+    "status": "active",
+    "notes": ""
+  },
+  {
+    "name": "MusoHost Pro",
+    "merchant": "MusoHost",
+    "amount": 19.99,
+    "currency": "USD",
+    "cadence": "monthly",
+    "last_charge_date": null,
+    "first_seen": "2026-03-20",
+    "status": "cancelled",
+    "notes": "Cancelled per email 2026-03-20."
+  }
+]

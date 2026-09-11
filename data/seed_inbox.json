@@ -1,0 +1,47 @@
+{
+  "inbox": [
+    {
+      "id": "m01",
+      "from": "receipts@streamvio.com",
+      "subject": "Your Streamvio receipt — April",
+      "date": "2026-04-02T10:14:00Z",
+      "body": "Thanks for staying with Streamvio Premium. Your monthly plan renewed today: $17.99 charged to card ending 4421. Previous rate was $12.99. Questions? Reply anytime."
+    },
+    {
+      "id": "m02",
+      "from": "no-reply@fitpulse.io",
+      "subject": "Your FitPulse Pro trial ends in 3 days",
+      "date": "2026-04-04T08:00:00Z",
+      "body": "Your 30-day free trial of FitPulse Pro converts to a paid plan on 2026-04-07 at $14.99/month. Manage or cancel anytime in Settings."
+    },
+    {
+      "id": "m03",
+      "from": "billing@clouddesk.app",
+      "subject": "CloudDesk Business renewal confirmed",
+      "date": "2026-03-28T16:40:00Z",
+      "body": "CloudDesk Business renewed for another month: $29.00. Thanks for building with us."
+    },
+    {
+      "id": "m04",
+      "from": "news@notedaily.co",
+      "subject": "NoteDaily monthly subscription receipt",
+      "date": "2026-03-25T09:05:00Z",
+      "body": "Your NoteDaily notes subscription renewed: $4.99 this month."
+    },
+    {
+      "id": "m05",
+      "from": "support@musohost.com",
+      "subject": "Your cancellation is confirmed",
+      "date": "2026-03-20T12:00:00Z",
+      "body": "We confirm the cancellation of your MusoHost Pro plan at $19.99/month. No further charges will occur."
+    },
+    {
+      "id": "m06",
+      "from": "receipts@streamvio.com",
+      "subject": "Your Streamvio receipt — March",
+      "date": "2026-03-02T10:14:00Z",
+      "body": "Streamvio Premium renewed: $12.99 charged to card ending 4421."
+    }
+  ],
+  "receipts": []
+}
